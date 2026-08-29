@@ -6,17 +6,17 @@ Carcassonne'da kazanmanı sağlayacak temel taktikler ve ipuçları.
 
 ## Karo Sayıları
 
-Temel kutuda (2. baskı) toplam **72 karo** bulunur. Başlıca dağılım:
+Temel kutuda toplam **72 karo** bulunur (1 başlangıç karosu + 71 arazi karosu). Dağılım:
 
 | Karo Türü | Adet |
 |---|---|
 | Başlangıç karosu | 1 |
-| Şehir karoları (çeşitli) | ~25 |
-| Yol karoları (çeşitli) | ~25 |
-| Manastır karoları | 4 |
-| Kavşak / özel karolar | kalan |
+| Sadece yol içeren karolar | 22 |
+| Manastır içeren karolar | 6 |
+| Şehir içeren karolar (yollu veya yolsuz) | 43 |
+| **Toplam** | **72** |
 
-> Not: Genişletmelerle (Nehir, Kraliçe ve Kral, Tüccarlar ve Lonca vb.) karo sayısı ve dağılımı değişir. Kesin dağılım kutunun arka yüzünde ve resmi kural kitapçığında listelenir.
+> Not: Genişletmelerle (Nehir, Kraliçe ve Kral, Tüccarlar ve Lonca vb.) karo sayısı ve dağılımı değişir. Bu tablo yalnızca temel kutuyu (base game) kapsar.
 
 ## Meeple (miipıl) Yönetimi
 
