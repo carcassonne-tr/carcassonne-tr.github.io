@@ -1,0 +1,75 @@
+baseURL = 'https://carcassonne-tr.github.io/'
+languageCode = 'tr-tr'
+title = 'Carcassonne Türkiye'
+theme = 'PaperMod'
+
+enableRobotsTXT = true
+enableEmoji = true
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  env = 'production'
+  description = 'Carcassonne masa oyunu Türkiye topluluğu — kurallar, taktikler, etkinlikler ve kaynaklar.'
+  author = 'Carcassonne Türkiye'
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowToc = true
+  disableSpecial1stPost = true
+
+  [params.homeInfoParams]
+    Title = "Carcassonne Türkiye'ye Hoş Geldin"
+    Content = "Carcassonne masa oyununu Türkiye'de sevenlerin buluştuğu topluluk sayfası. Kurallar, taktikler, etkinlikler ve kaynaklar burada."
+
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://instagram.com/DEGISTIR_KULLANICI_ADI"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:DEGISTIR@example.com"
+
+[menu]
+  [[menu.main]]
+    identifier = 'hakkinda'
+    name = 'Hakkında'
+    url = '/hakkinda/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'taktikler'
+    name = 'Taktikler'
+    url = '/taktikler/'
+    weight = 20
+  [[menu.main]]
+    identifier = 'etkinlikler'
+    name = 'Etkinlikler'
+    url = '/etkinlikler/'
+    weight = 30
+  [[menu.main]]
+    identifier = 'kaynaklar'
+    name = 'Kaynaklar'
+    url = '/kaynaklar/'
+    weight = 40
+  [[menu.main]]
+    identifier = 'blog'
+    name = 'Blog'
+    url = '/blog/'
+    weight = 50
+  [[menu.main]]
+    identifier = 'iletisim'
+    name = 'Bize Ulaş'
+    url = '/iletisim/'
+    weight = 60
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
