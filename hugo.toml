@@ -41,6 +41,11 @@ enableEmoji = true
     url = '/hakkinda/'
     weight = 10
   [[menu.main]]
+    identifier = 'kurallar'
+    name = 'Kurallar'
+    url = '/kurallar/'
+    weight = 15
+  [[menu.main]]
     identifier = 'taktikler'
     name = 'Taktikler'
     url = '/taktikler/'

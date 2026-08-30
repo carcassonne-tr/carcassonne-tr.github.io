@@ -67,6 +67,6 @@ article.post-single .post-title {
     border-color: var(--carc-gold);
 }
 
-.social-icons a svg {
-    fill: var(--carc-terracotta);
+.social-icons a {
+    color: var(--carc-terracotta);
 }
