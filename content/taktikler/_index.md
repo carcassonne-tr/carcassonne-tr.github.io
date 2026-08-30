@@ -6,21 +6,33 @@ Carcassonne'da kazanmanı sağlayacak taktikleri deneyim seviyene göre iki sayf
 
 ## Karo Sayıları
 
-Temel kutuda toplam **72 karo** bulunur, 12 farklı karo grubuna ayrılır:
+Temel kutuda toplam **72 karo** bulunur, orijinal kaynaktaki (wikicarpedia) gibi 24 ayrı karo grubuna ayrılır. Görsel olarak aynı şekle sahip gruplar (ör. tek kenarlı şehir + yol) bile kaynakta ayrı satırlar olarak sayıldığı için burada da birleştirilmeden, ayrı ayrı listelenmiştir:
 
 <div class="tile-grid">
-  <figure><img src="/images/tiles/monastery-road.svg" alt="Manastır + yol"><figcaption>Manastır + yol<br><strong>×2</strong></figcaption></figure>
-  <figure><img src="/images/tiles/monastery.svg" alt="Manastır (yolsuz)"><figcaption>Manastır (yolsuz)<br><strong>×4</strong></figcaption></figure>
-  <figure><img src="/images/tiles/city-4edge.svg" alt="4 kenarlı şehir"><figcaption>4 kenarlı şehir (kapalı)<br><strong>×1</strong></figcaption></figure>
-  <figure><img src="/images/tiles/city-1edge-road.svg" alt="1 kenarlı şehir + yol"><figcaption>1 kenarlı şehir + yol<br><strong>×13</strong></figcaption></figure>
-  <figure><img src="/images/tiles/city-corner.svg" alt="2 kenarlı şehir, köşe"><figcaption>2 kenarlı şehir – köşe ("dorito")<br><strong>×12</strong></figcaption></figure>
-  <figure><img src="/images/tiles/city-corner-road.svg" alt="2 kenarlı şehir, köşe + yol"><figcaption>2 kenarlı şehir – köşe + yol<br><strong>×5</strong></figcaption></figure>
-  <figure><img src="/images/tiles/city-opposite.svg" alt="2 kenarlı şehir, karşılıklı"><figcaption>2 kenarlı şehir – karşılıklı<br><strong>×3</strong></figcaption></figure>
-  <figure><img src="/images/tiles/city-two-separate.svg" alt="2 ayrı tek kenarlı şehir"><figcaption>2 ayrı tek kenarlı şehir (aynı karoda)<br><strong>×3</strong></figcaption></figure>
-  <figure><img src="/images/tiles/city-3edge.svg" alt="3 kenarlı şehir"><figcaption>3 kenarlı şehir ("cow")<br><strong>×4</strong></figcaption></figure>
-  <figure><img src="/images/tiles/city-3edge-road.svg" alt="3 kenarlı şehir + yol"><figcaption>3 kenarlı şehir + yol ("horse")<br><strong>×3</strong></figcaption></figure>
-  <figure><img src="/images/tiles/road-curve.svg" alt="Sadece yol, dönel"><figcaption>Sadece yol (dönel)<br><strong>×17</strong></figcaption></figure>
-  <figure><img src="/images/tiles/road-crossroad.svg" alt="Sadece yol, kavşak"><figcaption>Sadece yol (kavşak/köy)<br><strong>×5</strong></figcaption></figure>
+  <figure><img src="/images/tiles/monastery-road.svg" alt="A: Manastır + yol"><figcaption>A — Manastır + yol<br><strong>×2</strong></figcaption></figure>
+  <figure><img src="/images/tiles/monastery.svg" alt="B: Manastır"><figcaption>B — Manastır (yolsuz)<br><strong>×4</strong></figcaption></figure>
+  <figure><img src="/images/tiles/city-4edge.svg" alt="C: 4 kenarlı şehir"><figcaption>C — 4 kenarlı şehir (kapalı)<br><strong>×1</strong></figcaption></figure>
+  <figure><img src="/images/tiles/city-1edge-road.svg" alt="D: Başlangıç karosu"><figcaption>D — Başlangıç karosu (1 kenar şehir + yol)<br><strong>×4</strong></figcaption></figure>
+  <figure><img src="/images/tiles/city-corner.svg" alt="E: 2 kenarlı şehir, köşe"><figcaption>E — 2 kenarlı şehir – köşe ("dorito")<br><strong>×5</strong></figcaption></figure>
+  <figure><img src="/images/tiles/city-opposite.svg" alt="F: 2 kenarlı şehir, karşılıklı"><figcaption>F — 2 kenarlı şehir – karşılıklı<br><strong>×2</strong></figcaption></figure>
+  <figure><img src="/images/tiles/city-opposite.svg" alt="G: 2 kenarlı şehir, karşılıklı"><figcaption>G — 2 kenarlı şehir – karşılıklı<br><strong>×1</strong></figcaption></figure>
+  <figure><img src="/images/tiles/city-two-separate.svg" alt="H: 2 ayrı tek kenarlı şehir"><figcaption>H — 2 ayrı tek kenarlı şehir (aynı karoda)<br><strong>×3</strong></figcaption></figure>
+  <figure><img src="/images/tiles/city-corner.svg" alt="I: 2 kenarlı şehir, köşe"><figcaption>I — 2 kenarlı şehir – köşe ("dorito")<br><strong>×2</strong></figcaption></figure>
+  <figure><img src="/images/tiles/city-1edge-road.svg" alt="J: 1 kenarlı şehir + yol"><figcaption>J — 1 kenarlı şehir + yol<br><strong>×3</strong></figcaption></figure>
+  <figure><img src="/images/tiles/city-1edge-road.svg" alt="K: 1 kenarlı şehir + yol"><figcaption>K — 1 kenarlı şehir + yol<br><strong>×3</strong></figcaption></figure>
+  <figure><img src="/images/tiles/city-1edge-road.svg" alt="L: 1 kenarlı şehir + yol (köy)"><figcaption>L — 1 kenarlı şehir + yol (köy)<br><strong>×3</strong></figcaption></figure>
+  <figure><img src="/images/tiles/city-corner.svg" alt="M: 2 kenarlı şehir, köşe"><figcaption>M — 2 kenarlı şehir – köşe ("dorito")<br><strong>×2</strong></figcaption></figure>
+  <figure><img src="/images/tiles/city-corner.svg" alt="N: 2 kenarlı şehir, köşe"><figcaption>N — 2 kenarlı şehir – köşe ("dorito")<br><strong>×3</strong></figcaption></figure>
+  <figure><img src="/images/tiles/city-corner-road.svg" alt="O: 2 kenarlı şehir, köşe + yol"><figcaption>O — 2 kenarlı şehir – köşe + yol<br><strong>×2</strong></figcaption></figure>
+  <figure><img src="/images/tiles/city-corner-road.svg" alt="P: 2 kenarlı şehir, köşe + yol"><figcaption>P — 2 kenarlı şehir – köşe + yol<br><strong>×3</strong></figcaption></figure>
+  <figure><img src="/images/tiles/city-3edge.svg" alt="Q: 3 kenarlı şehir"><figcaption>Q — 3 kenarlı şehir ("cow")<br><strong>×1</strong></figcaption></figure>
+  <figure><img src="/images/tiles/city-3edge.svg" alt="R: 3 kenarlı şehir"><figcaption>R — 3 kenarlı şehir ("cow")<br><strong>×3</strong></figcaption></figure>
+  <figure><img src="/images/tiles/city-3edge-road.svg" alt="S: 3 kenarlı şehir + yol"><figcaption>S — 3 kenarlı şehir + yol ("horse")<br><strong>×2</strong></figcaption></figure>
+  <figure><img src="/images/tiles/city-3edge-road.svg" alt="T: 3 kenarlı şehir + yol"><figcaption>T — 3 kenarlı şehir + yol ("horse")<br><strong>×1</strong></figcaption></figure>
+  <figure><img src="/images/tiles/road-curve.svg" alt="U: Sadece yol, dönel"><figcaption>U — Sadece yol (dönel)<br><strong>×8</strong></figcaption></figure>
+  <figure><img src="/images/tiles/road-curve.svg" alt="V: Sadece yol, dönel"><figcaption>V — Sadece yol (dönel)<br><strong>×9</strong></figcaption></figure>
+  <figure><img src="/images/tiles/road-crossroad.svg" alt="W: Sadece yol, köy kavşağı"><figcaption>W — Sadece yol (köy kavşağı)<br><strong>×4</strong></figcaption></figure>
+  <figure><img src="/images/tiles/road-crossroad.svg" alt="X: Sadece yol, köy kavşağı"><figcaption>X — Sadece yol (köy kavşağı)<br><strong>×1</strong></figcaption></figure>
 </div>
 
 <style>
