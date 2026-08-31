@@ -11,12 +11,16 @@ Carcassonne hakkında faydalı bulduğumuz kaynaklar.
 
 ## Genişletmeler
 
-Carcassonne için onlarca genişletme mevcuttur (Nehir, Kraliçe ve Kral, Tüccarlar ve Lonca, Prenses ve Ejderha vb.). Genişletme bazlı rehberler ilerleyen zamanda buraya eklenecek.
+Carcassonne için onlarca genişletme mevcuttur (Nehir/*The River*, Tüccarlar ve Lonca/*Traders & Builders*, Hanlar ve Katedraller/*Inns & Cathedrals*, Prenses ve Ejderha/*The Princess & The Dragon* vb.). Genişletme bazlı rehberler ilerleyen zamanda buraya eklenecek.
 
 ## Dijital Versiyonlar
 
-- Resmi Carcassonne mobil/PC uygulaması (iOS, Android, Steam)
-- Board Game Arena üzerinden tarayıcıdan online oynama imkânı
+**Resmi / lisanslı:**
+
+- [Board Game Arena](https://boardgamearena.com/gamepanel?game=carcassonne) — tarayıcıdan ücretsiz online oynama
+- [Carcassonne – Tiles & Tactics](https://store.steampowered.com/app/598810/) — resmi dijital oyun (Steam, Android, iOS, Nintendo Switch), ücretli; Android ve Steam arasında cross-play var (iOS hariç)
+
+**Dikkat:** İnternette "ücretsiz Carcassonne alternatifi" diye tanıtılan bazı tarayıcı siteleri (TileLord, Seizer, TileKingdom vb.) aslında resmi Carcassonne değil, lisanssız/doğrulanmamış klon oyunlardır. Bu siteleri kendi sorumluluğunda deneyebilirsin, ama biz doğrulamadığımız için önermiyoruz.
 
 ## Topluluk
 

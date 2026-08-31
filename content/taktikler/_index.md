@@ -6,7 +6,7 @@ Carcassonne'da kazanmanı sağlayacak taktikleri deneyim seviyene göre iki sayf
 
 ## Karo Sayıları
 
-Temel kutuda toplam **72 karo** bulunur, orijinal kaynaktaki (wikicarpedia) gibi 24 ayrı karo grubuna ayrılır. Görsel olarak aynı şekle sahip gruplar (ör. tek kenarlı şehir + yol) bile kaynakta ayrı satırlar olarak sayıldığı için burada da birleştirilmeden, ayrı ayrı listelenmiştir:
+Temel kutuda toplam **72 karo** bulunur, 24 ayrı karo grubuna ayrılır. Bazı gruplar aynı şekle sahip görünse de aralarındaki fark genelde bir **kalkan (pennant)** ikonudur: kalkanlı bir şehir tamamlandığında sahibine sadece **1 ekstra puan** kazandırır, geri kalan tüm kurallar (yerleştirme, meeple, puanlama) aynıdır.
 
 <div class="tile-grid">
   <figure><img src="/images/tiles/tile-a.jpg" alt="A: Manastır + yol"><figcaption>A — Manastır + yol<br><strong>×2</strong></figcaption></figure>
@@ -42,4 +42,4 @@ Temel kutuda toplam **72 karo** bulunur, orijinal kaynaktaki (wikicarpedia) gibi
 .tile-grid figcaption { font-size: 0.8rem; margin-top: 6px; line-height: 1.3; }
 </style>
 
-> Not: Genişletmelerle (Nehir, Kraliçe ve Kral, Tüccarlar ve Lonca vb.) karo sayısı ve dağılımı değişir; bu tablo yalnızca temel kutuyu (base game) kapsar. Karo görselleri [wikicarpedia.com/car/Base_game](https://wikicarpedia.com/car/Base_game) kaynağından alınmıştır; Carcassonne karo sanatının telif hakkı Hans im Glück / KOSMOS'a aittir ve burada yalnızca eğitim/referans amacıyla kullanılmaktadır.
+> Not: Genişletmelerle (Nehir/*The River*, Tüccarlar ve Lonca/*Traders & Builders*, Hanlar ve Katedraller/*Inns & Cathedrals*, Prenses ve Ejderha/*The Princess & The Dragon* vb.) karo sayısı ve dağılımı değişir; bu tablo yalnızca temel kutuyu (base game) kapsar. Turnuvalarda aksi özellikle belirtilmedikçe her zaman base game (genişletmesiz temel kutu) oynanır. Karo görselleri [wikicarpedia.com/car/Base_game](https://wikicarpedia.com/car/Base_game) kaynağından alınmıştır; Carcassonne karo sanatının telif hakkı Hans im Glück / KOSMOS'a aittir ve burada yalnızca eğitim/referans amacıyla kullanılmaktadır.
