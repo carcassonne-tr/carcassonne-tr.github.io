@@ -19,7 +19,12 @@ hugo server -D
 
 ## Yapılacaklar
 
-- [ ] `hugo.toml` içindeki Instagram ve e-posta linklerini güncelle
-- [ ] `content/iletisim/_index.md` içindeki placeholder linkleri güncelle
-- [ ] Favicon ve logo ekle (`static/` klasörüne)
-- [ ] Repo ayarlarından **Settings → Pages → Build and deployment → Source: GitHub Actions** seçeneğini aktif et
+- [x] `hugo.toml` içindeki Instagram ve e-posta linklerini güncelle
+- [x] `content/iletisim/_index.md` içindeki placeholder linkleri güncelle
+- [x] Favicon ekle (`static/` klasörüne)
+- [x] Repo ayarlarından **Settings → Pages → Build and deployment → Source: GitHub Actions** seçeneğini aktif et
+- [ ] Logo ekle
+
+## Atıflar
+
+- Favicon, [game-icons.net](https://game-icons.net/1x1/delapouite/meeple.html) üzerindeki "Meeple" ikonuna ([Delapouite](https://delapouite.com/), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)) kırmızı-beyaz çizgi deseni uygulanarak türetilmiştir.
