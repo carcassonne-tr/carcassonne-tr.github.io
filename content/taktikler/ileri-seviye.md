@@ -31,6 +31,10 @@ Elindeki meeple'ı yakın zamanda geri alma şansının gerçekten düşük oldu
 
 Elinde sadece bir meeple kaldığında, hemen puana çeviremeyeceğin karoları rakibinin kolayca kullanamayacağı ya da en azından zorlanacağı şekilde yerleştirmeye çalış. Bu, meeple'sız kaldığın dönemde rakibine avantaj sağlamamanın basit ama etkili bir yoludur.
 
+## Bloklama ve Kısıtlama
+
+İleri seviye oyuncular, rakibi doğrudan şehirlerde ve çayırlarda meeple sayısıyla ezmek yerine, önce rakibin planlarını bozup meeple'larını bloke etmeyi, avantajı ancak oyunun ileri aşamalarında devreye almayı sever. Bu, karo türlerini ve kalan karo sayısını bilmeye dayanan, ayrıntılı bir konu — bu yüzden kendi sayfa serisine taşıdık: [Karo Sayma Temelleri](/taktikler/karo-sayma-temelleri/) ile başlayıp bloklama tekniklerini adım adım işleyeceğiz.
+
 ---
 
-*Bu sayfadaki "Zafer İçin Çiftçilik" ve "Bağlan ve Fethet" bölümleri [r/Carcassonne](https://www.reddit.com/r/Carcassonne/) topluluğunda paylaşılan bir gönderiden Türkçeye çevrilmiştir; diğer ipuçları topluluğumuzun kendi katkısıdır.*
+*Bu sayfadaki "Zafer İçin Çayır Stratejisi" ve "Bağlan ve Fethet" bölümleri [r/Carcassonne](https://www.reddit.com/r/Carcassonne/) topluluğunda paylaşılan bir gönderiden Türkçeye çevrilmiştir; diğer ipuçları topluluğumuzun kendi katkısıdır.*
