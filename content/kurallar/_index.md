@@ -34,5 +34,5 @@ Her turda oyuncu sırasıyla şunları yapar:
 ## Oyunun Bitişi
 
 - Son karo yerleştirilip o turun tüm adımları tamamlanınca oyun biter.
-- Tamamlanmamış tüm özellikler (şehirler, yollar, manastırlar, çayırlar) bu noktada son kez puanlanır — tamamlanmamış şehir ve yollar normalden daha az puan verir (bkz. [Taktikler](/taktikler/)).
+- Tamamlanmamış tüm özellikler (şehirler, yollar, manastırlar, çayırlar) bu noktada son kez puanlanır; tamamlanmamış şehir ve yollar normalden daha az puan verir (bkz. [Taktikler](/taktikler/)).
 - En çok puana sahip oyuncu kazanır.

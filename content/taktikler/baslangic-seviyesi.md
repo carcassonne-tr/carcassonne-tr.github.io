@@ -13,13 +13,13 @@ Her karo yerleşimini dikkatlice değerlendir. Bazen mevcut bir şehri genişlet
 
 Carcassonne'da yollar hak ettikleri ilgiyi genellikle görmez. Şehirler kadar puan getirmeseler de yolların kendine has avantajları vardır. Birincisi, tamamlanmaları için daha az karo gerekir, yani puanını daha hızlı kazanıp meeple'ını daha çabuk geri alabilirsin. İkincisi, yollar esnektir ve arazinin birçok noktasına uyabilir, bu da daha fazla yerleşim seçeneği sunar.
 
-Yollar aynı zamanda iyi bir savunma stratejisi ve sabotaj fırsatı olabilir. Yol inşa ederek rakibinin planlarına müdahale edebilir ve karo yerleştirme seçeneklerini kısıtlayabilirsin. Yani mütevazı yolu hafife alma — istikrarlı ve stratejik bir puan kaynağı olabilir.
+Yollar aynı zamanda iyi bir savunma stratejisi ve sabotaj fırsatı olabilir. Yol inşa ederek rakibinin planlarına müdahale edebilir ve karo yerleştirme seçeneklerini kısıtlayabilirsin. Yani mütevazı yolu hafife alma; istikrarlı ve stratejik bir puan kaynağı olabilir.
 
 ## Manastırda Ustalaş
 
 Tamamlanmış bir manastır sana tam dokuz puan kazandırabilir, ama dikkatli planlama gerektirir. Manastırların tamamlanması için sekiz karoyla çevrelenmesi gerekir, bu da onları önemli bir taahhüt ve oyun sonuna kadar potansiyel olarak sıkışmış bir meeple haline getirebilir.
 
-Bir manastır yerleştirirken arazinin mevcut düzenini göz önünde bulundur. Manastırlarını, diğer oyuncuların karo yerleştirme ihtimalinin yüksek olduğu alanlara konumlandır — bu, manastırının daha hızlı tamamlanma şansını artırır.
+Bir manastır yerleştirirken arazinin mevcut düzenini göz önünde bulundur. Manastırlarını, diğer oyuncuların karo yerleştirme ihtimalinin yüksek olduğu alanlara konumlandır. Bu, manastırının daha hızlı tamamlanma şansını artırır.
 
 ## Meeple Yönetimi
 

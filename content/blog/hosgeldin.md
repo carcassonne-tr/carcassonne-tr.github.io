@@ -7,4 +7,4 @@ tags: ["duyuru"]
 
 Carcassonne Türkiye topluluğu resmen kuruldu! Bu blog, topluluk güncellemelerini, oyun ipuçlarını ve etkinlik özetlerini paylaşacağımız yer olacak.
 
-Takipte kalın — yakında daha fazla içerik geliyor.
+Takipte kalın, yakında daha fazla içerik geliyor.

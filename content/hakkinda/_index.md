@@ -4,9 +4,9 @@ title: "Hakkında"
 
 ## Carcassonne Nedir?
 
-Carcassonne, Klaus-Jürgen Wrede tarafından tasarlanan ve 2000 yılında yayımlanan, karo yerleştirmeli bir masa oyunudur. Oyuncular sırayla karo çekip mevcut düzene ekler; yollar, şehirler, manastırlar ve çayırlar inşa ederek "takipçi" adı verilen figürleriyle bölgeleri ele geçirir ve puan toplar.
+Carcassonne, Klaus-Jürgen Wrede tarafından tasarlanan ve 2000 yılında yayımlanan, karo yerleştirmeli bir masa oyunudur. Oyuncular sırayla karo çekip mevcut düzene ekler; yollar, şehirler, manastırlar ve çayırlar inşa ederek "meeple" adı verilen figürleriyle bölgeleri ele geçirir ve puan toplar.
 
-Oyun basit kurallara sahip olmasına rağmen derin stratejik kararlar barındırır — bu yüzden hem yeni başlayanlar hem de deneyimli oyuncular için keyifli bir deneyim sunar.
+Oyun basit kurallara sahip olmasına rağmen derin stratejik kararlar barındırır, bu yüzden hem yeni başlayanlar hem de deneyimli oyuncular için keyifli bir deneyim sunar.
 
 ## Bu Topluluk Ne İşe Yarar?
 

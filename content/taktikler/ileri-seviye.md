@@ -19,13 +19,13 @@ Bu taktik sana puan kazandırmakla kalmaz, rakibinin planlarını da bozabilir. 
 
 ## Oyunun Ortasında Durum Tespiti
 
-Oyunun ortalarına gelindiğinde (elinde 30-35 karo kaldığında), bir adım geri çekilip oyunun genel olarak nereye gittiğini değerlendir. Puan durumuna bak — henüz tamamlanmamış, yarım kalmış şehir/yol/manastırları da hesaba kat, sadece anlık skor tablosuna bakma. Sonra kendine sor: Bu oyunda çayırlar mı belirleyici olacak, bir şehri tamamlamak mı, yoksa rakibi engellemek mi?
+Oyunun ortalarına gelindiğinde (elinde 30-35 karo kaldığında), bir adım geri çekilip oyunun genel olarak nereye gittiğini değerlendir. Puan durumuna bak; henüz tamamlanmamış, yarım kalmış şehir/yol/manastırları da hesaba kat, sadece anlık skor tablosuna bakma. Sonra kendine sor: Bu oyunda çayırlar mı belirleyici olacak, bir şehri tamamlamak mı, yoksa rakibi engellemek mi?
 
 Bazen puan avantajın olduğu için çayırı kazanman gerekmez; çayırda berabere kalman bile o çayırı sıfırlamak ve maçı kazanmak için yeterli olabilir. Bu değerlendirmeyi yapmadan devam etmek, gereksiz yere kaynak (meeple, karo, zaman) harcamana yol açabilir.
 
 ## Son Meeple'ını Gözden Çıkarma
 
-Elindeki meeple'ı yakın zamanda geri alma şansının gerçekten düşük olduğunu düşünüyorsan, son meeple'ını oraya koymamalısın. Özellikle iyi rakiplere karşı, elinde hiç meeple kalmaması seni ciddi bir çıkmaza sokabilir — rakibinin açtığı fırsatları değerlendiremez, yeni bir figüre sahip çıkamazsın.
+Elindeki meeple'ı yakın zamanda geri alma şansının gerçekten düşük olduğunu düşünüyorsan, son meeple'ını oraya koymamalısın. Özellikle iyi rakiplere karşı, elinde hiç meeple kalmaması seni ciddi bir çıkmaza sokabilir: rakibinin açtığı fırsatları değerlendiremez, yeni bir figüre sahip çıkamazsın.
 
 ## Tek Meeple Kaldığında Karo Yerleştirme
 
@@ -33,7 +33,7 @@ Elinde sadece bir meeple kaldığında, hemen puana çeviremeyeceğin karoları 
 
 ## Bloklama ve Kısıtlama
 
-İleri seviye oyuncular, rakibi doğrudan şehirlerde ve çayırlarda meeple sayısıyla ezmek yerine, önce rakibin planlarını bozup meeple'larını bloke etmeyi, avantajı ancak oyunun ileri aşamalarında devreye almayı sever. Bu, karo türlerini ve kalan karo sayısını bilmeye dayanan, ayrıntılı bir konu — bu yüzden kendi sayfa serisine taşıdık: [Karo Sayma Temelleri](/taktikler/karo-sayma-temelleri/) ile başlayıp bloklama tekniklerini adım adım işleyeceğiz.
+İleri seviye oyuncular, rakibi doğrudan şehirlerde ve çayırlarda meeple sayısıyla ezmek yerine, önce rakibin planlarını bozup meeple'larını bloke etmeyi, avantajı ancak oyunun ileri aşamalarında devreye almayı sever. Bu, karo türlerini ve kalan karo sayısını bilmeye dayanan, ayrıntılı bir konu, bu yüzden kendi sayfa serisine taşıdık: [Karo Sayma Temelleri](/taktikler/karo-sayma-temelleri/) ve [Bloklama Teknikleri](/taktikler/bloklama-teknikleri/).
 
 ---
 
