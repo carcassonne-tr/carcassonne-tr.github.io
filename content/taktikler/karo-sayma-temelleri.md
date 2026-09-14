@@ -41,10 +41,17 @@ Teorik olarak, çayır/şehir/yol kenarlarının farklı kombinasyonlarıyla ço
 - **2 çayır kenarı + 1 şehir kenarı + 1 yol kenarı** olan karolar
 - **2 şehir kenarı + 1 çayır kenarı + 1 yol kenarı** olan karolar
 
-Bu iki kombinasyonun ortak noktasına dikkat et: birinde 2 çayır, diğerinde 2 şehir var, ama **hiçbirinde aynı karoda 2 yol kenarı yan yana yok.**
+Bu iki grubun ortak noktasına dikkat et: her ikisinde de **tam olarak 1 yol kenarı** var. İkisinde de **2 yol kenarı olan bir versiyon yok.**
 
-**Sonuç:** Bir meeple'ı bloklamak istiyorsak, o meeple'ın bulunduğu boşluğu, oraya **2 yol kenarı birden gelmeyecek** şekilde koşullandırmamız gerekir. Bu, tersten de işler: bir meeple'ı bloklanmaktan korumak istiyorsak, o boşluğa 2 yol kenarının birden gelmesini sağlamalıyız.
+Bunun pratikte ne anlama geldiğini bir örnekle görelim. Tahtada boş bir yer (bir "boşluk") olduğunu ve bu boşluğun komşularından dolayı şu şekli istediğini düşün: **2 kenarı çayır, 1 kenarı şehir, 1 kenarı da yol olan bir karo.** Yukarıdaki kurala göre böyle bir karo **hiç yok** — yani o boşluk asla, hiçbir zaman dolmaz! Eğer rakibinin meeple'ı bu boşluğa bitişikse, o meeple sonsuza dek bloklanmış olur.
 
-Başka bir deyişle: **var olmayan karolarda her zaman 1 yol kenarı var, ama asla 2 tane yok.** (Bu kuralın tek bir istisnası var, ama pratikte nadiren karşına çıkar.)
+Ama eğer aynı boşluk, komşu karolar sayesinde **2 yol kenarı** istiyor olsaydı (örneğin 1 çayır + 1 şehir + 2 yol), bu kombinasyon gerçekten var — yani o boşluk normal şekilde doldurulabilirdi.
+
+**Sonuç — bloklama kuralının özü:**
+
+- Bir meeple'ı **bloklamak** istiyorsan: meeple'ın bitişiğindeki boş yeri, oraya **sadece 1 yol kenarı gelecek** şekilde bırak (2. yol kenarını ekleme).
+- Bir meeple'ı **bloklanmaktan korumak** istiyorsan: o boşluğa mümkün olduğunca **2 yol kenarı birden** gelmesini sağla — bu, çok daha fazla karo türüyle doldurulabilir hale gelir.
+
+(Bu kuralın tek bir istisnası var, pratikte nadiren karşına çıkar — ilerideki bölümlerde göreceğiz.)
 
 Bu basit ama güçlü kural, ilerideki bölümlerde göreceğimiz tüm bloklama tekniklerinin temelini oluşturuyor.
