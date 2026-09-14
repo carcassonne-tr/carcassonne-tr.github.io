@@ -3,13 +3,13 @@ title: "İleri Seviye Taktikler"
 weight: 20
 ---
 
-## Zafer İçin Çiftçilik
+## Zafer İçin Çayır Stratejisi
 
-Çayırlar muhtemelen Carcassonne'un en karmaşık yönlerinden biridir. Oyunun sonucunu önemli ölçüde etkileyebilecek yüksek riskli, yüksek ödüllü özelliklerdir. Bir çiftçi meeple'ı bir çayıra yerleştirdiğinde, ne olursa olsun oyunun geri kalanında orada kalır. Bu yüzden çayır konumlarını akıllıca seçmek çok önemlidir.
+Çayırlar muhtemelen Carcassonne'un en karmaşık yönlerinden biridir. Oyunun sonucunu önemli ölçüde etkileyebilecek yüksek riskli, yüksek ödüllü özelliklerdir. Bir meeple'ı bir çayıra yerleştirdiğinde, ne olursa olsun oyunun geri kalanında orada kalır. Bu yüzden çayır konumlarını akıllıca seçmek çok önemlidir.
 
-Başarılı çiftçiliğin anahtarı, erken davranmak ve tahtada oyun sonunda birden fazla tamamlanmış şehre sahip olacağını düşündüğün çayırları hedeflemektir. Zaten üzerinde çiftçi bulunan bir çayıra başka bir çiftçi yerleştiremezsin. Erken davranarak, büyük ve kazançlı çayıra girebilmek için diğer karoları birbirine bağlayarak daha yaratıcı yollar bulmak zorunda kalacak rakiplerine karşı avantaj elde edersin.
+Başarılı bir çayır stratejisinin anahtarı, erken davranmak ve tahtada oyun sonunda birden fazla tamamlanmış şehre sahip olacağını düşündüğün çayırları hedeflemektir. Zaten üzerinde meeple bulunan bir çayıra başka bir meeple yerleştiremezsin. Erken davranarak, büyük ve kazançlı çayıra girebilmek için diğer karoları birbirine bağlayarak daha yaratıcı yollar bulmak zorunda kalacak rakiplerine karşı avantaj elde edersin.
 
-Çiftçilikle ilgili büyük risk, sen ve rakibinin bir çayırı kazanmak için giderek daha fazla çiftçi yerleştirdiği, ama meeple taahhüdü yüzünden puan fırsatlarını kaçırdığınız bir çiftçilik "savaşına" girme ihtimalidir. Bunun olduğunu fark edersen, meeple'larını çiftçiliğe fazla bağlamamaya dikkat et, çünkü bu oyun sırasında seçeneklerini azaltabilir. Doğru dengeyi bulmak, Carcassonne'da çiftçilik sanatında ustalaşmanın anahtarıdır.
+Çayır stratejisiyle ilgili büyük risk, sen ve rakibinin bir çayırı kazanmak için giderek daha fazla meeple yerleştirdiği, ama meeple taahhüdü yüzünden puan fırsatlarını kaçırdığınız bir çayır "savaşına" girme ihtimalidir. Bunun olduğunu fark edersen, meeple'larını çayıra fazla bağlamamaya dikkat et, çünkü bu oyun sırasında seçeneklerini azaltabilir. Doğru dengeyi bulmak, Carcassonne'da çayır stratejisinde ustalaşmanın anahtarıdır.
 
 ## Bağlan ve Fethet
 
