@@ -13,7 +13,7 @@ Temel kutuda toplam **72 karo** bulunur, 24 ayrı karo grubuna ayrılır. Bazı 
   <figure><img src="/images/tiles/tile-b.jpg" alt="B: Manastır"><figcaption>B: Manastır (yolsuz)<br><strong>×4</strong></figcaption></figure>
   <figure><img src="/images/tiles/tile-c.jpg" alt="C: 4 kenarlı şehir"><figcaption>C: 4 kenarlı şehir (kapalı)<br><strong>×1</strong></figcaption></figure>
   <figure><img src="/images/tiles/tile-d.jpg" alt="D: Başlangıç karosu"><figcaption>D: Başlangıç karosu (1 kenar şehir + düz yol)<br><strong>×4</strong></figcaption></figure>
-  <figure><img src="/images/tiles/tile-e.jpg" alt="E: 1 kenarlı şehir"><figcaption>E: 1 kenarlı şehir ("cap")<br><strong>×5</strong></figcaption></figure>
+  <figure><img src="/images/tiles/tile-e.jpg" alt="E: 1 kenarlı şehir"><figcaption>E: 1 kenarlı şehir ("kapak", İng. "cap")<br><strong>×5</strong></figcaption></figure>
   <figure><img src="/images/tiles/tile-f.jpg" alt="F: 2 kenarlı şehir, karşılıklı"><figcaption>F: 2 kenarlı şehir – karşılıklı<br><strong>×2</strong></figcaption></figure>
   <figure><img src="/images/tiles/tile-g.jpg" alt="G: 2 kenarlı şehir, karşılıklı"><figcaption>G: 2 kenarlı şehir – karşılıklı<br><strong>×1</strong></figcaption></figure>
   <figure><img src="/images/tiles/tile-h.jpg" alt="H: 2 bağımsız tek kenarlı şehir, karşılıklı"><figcaption>H: 2 bağımsız tek kenarlı şehir – karşılıklı ("splitter")<br><strong>×3</strong></figcaption></figure>

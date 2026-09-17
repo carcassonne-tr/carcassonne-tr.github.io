@@ -15,7 +15,7 @@ Neden? Çünkü var olmayan bir karoyu bekleyerek bir şehri kapatmaya çalışm
 
 Birinin domino oynarken, 0'dan 6'ya kadar her sayıdan tam 7 taş olduğunu bilmeden oynadığını düşünebiliyor musun? Ne zaman "kapatabileceğini" bilemediği için daha kötü oynar, değil mi? Carcassonne'da da durum tam olarak bu.
 
-Rakibini bloklayabilmek ve kendi meeple'ının bloklanmasını önleyebilmek için her karo türünden kaç tane olduğunu bilmen gerekir. Örneğin, temel kutuda kaç manastır, kaç yol karosu, kaç "cap" ve kaç "dorito" olduğunu bilmek önemlidir.
+Rakibini bloklayabilmek ve kendi meeple'ının bloklanmasını önleyebilmek için her karo türünden kaç tane olduğunu bilmen gerekir. Örneğin, temel kutuda kaç manastır, kaç yol karosu, kaç "kapak" (İng. "cap") ve kaç "dorito" olduğunu bilmek önemlidir.
 
 ## Temel Kutudaki Karo Dağılımı
 
@@ -25,7 +25,7 @@ Bizim terminolojimizle kısaca hatırlatalım:
 
 - **Manastır:** 6 karo (2 yollu + 4 yolsuz)
 - **Sadece yol:** 22 karo (düz, dirsek, T ve kavşak türleri)
-- **1 kenarlı şehir ("cap"):** yolsuz veya yollu (düz/dirsek/T yol) varyantlarıyla toplam
+- **1 kenarlı şehir ("kapak", İng. "cap"):** yolsuz veya yollu (düz/dirsek/T yol) varyantlarıyla toplam
 - **2 kenarlı şehir:** köşede birleşik ("dorito"), karşılıklı, veya iki bağımsız parça ("separator"/"splitter") olabilir
 - **3 kenarlı şehir ("cow"):** yolsuz veya yollu ("horse")
 - **4 kenarlı şehir:** tamamen kapalı, tek bir karo
