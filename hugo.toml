@@ -21,6 +21,7 @@ enableEmoji = true
   ShowCodeCopyButtons = false
   ShowToc = true
   disableSpecial1stPost = true
+  mainSections = ['blog']
 
   [params.homeInfoParams]
     Title = "Carcassonne Türkiye'ye Hoş Geldin"

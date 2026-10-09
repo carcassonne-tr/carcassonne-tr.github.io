@@ -3,6 +3,7 @@ title: "Türkiye'nin İlk Carcassonne Takımı: ETCOC 2026 Deneyimi"
 date: 2026-10-09
 draft: false
 tags: ["turnuva", "etcoc"]
+summary: "Sadece 5 günde sıfırdan 10 kişilik bir ekip kurduk ve Türkiye ilk kez uluslararası bir Carcassonne şampiyonasında sahaya çıktı. 5 karşılaşma, 2 düello zaferi, 5 oyun galibiyeti ve bol bol öğrendiğimiz bir deneyim."
 ---
 
 Tarihler Mayıs 2026'yı gösterirken steam4206 olarak Katalonya ekibi adına WTCOC'da yarışıyordum. Rakip ülkelerden birisi Guatemala idi. Sadece birkaç milyonluk nüfusu olan(cahillik işte, halbuki 18.7 milyonmuş) bir ülke bir ekip çıkartmış ve kıyasıya mücadele ediyordu. Benim 85 milyonluk ülkemden 10 kişi bulamaz mıydım düşüncesi düştü aklıma.
